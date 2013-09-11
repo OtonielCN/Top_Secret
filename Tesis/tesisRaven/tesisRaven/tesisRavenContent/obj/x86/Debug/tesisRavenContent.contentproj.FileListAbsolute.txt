@@ -1,0 +1,5 @@
+C:\Users\ReyCano\Desktop\Tesis\tesisRaven\tesisRaven\tesisRavenContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tesis\tesisRaven\tesisRaven\tesisRavenContent\obj\x86\Debug\tesisRavenContent.contentprojResolveAssemblyReference.cache
+D:\Tesis\tesisRaven\tesisRaven\tesisRavenContent\obj\x86\Debug\Sonido\gameAudio.xml
+C:\Users\Otoniel\Desktop\Raven\ultimos\Tesis\tesisRaven\tesisRaven\tesisRavenContent\obj\x86\Debug\tesisRavenContent.contentprojResolveAssemblyReference.cache
+C:\Users\Otoniel\Desktop\Raven\ultimos\Tesis\tesisRaven\tesisRaven\tesisRavenContent\obj\x86\Debug\Sonido\gameAudio.xml

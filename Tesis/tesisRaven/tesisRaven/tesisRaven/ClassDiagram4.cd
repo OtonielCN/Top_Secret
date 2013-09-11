@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tesisRaven.calcular_Ancho_y_Alto_String" Collapsed="true">
+    <Position X="32.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calcular_Ancho_y_Alto_String.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Game1" Collapsed="true">
+    <Position X="31" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FhQEmmAEQYogdyQqEAAABimABbAEQAxCYAAQATMHAI0=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.generaSonido" Collapsed="true">
+    <Position X="32.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAQEABAAAAgIAASAAAA=</HashCode>
+      <FileName>generaSonido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.paciente" Collapsed="true">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAACAAAAAgAAAAwACAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Program" Collapsed="true">
+    <Position X="32.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Sprite" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAASAAIAggAACAAAiAAAECAAAAAACAAQAAAAAAQ=</HashCode>
+      <FileName>SPRITE\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Menu" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQBFAAgAABAAyERAIIAgAAIEAiAAAAAAAAAAAAAAkw=</HashCode>
+      <FileName>TEXTO\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Text" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCgAAAAAAAAgAAAAABAAAAAQAIAASAAAQAAAAEAIQ=</HashCode>
+      <FileName>TEXTO\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.Titulo" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUDAAAIAAICAgAAEAAAIAAAAAAAAIACAQAAABAAQAQ=</HashCode>
+      <FileName>TEXTO\Titulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.albert" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>SPRITE\albert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.fondo" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAGAAAAAAAgAABAAgAAEAAAAAAAAAABAAAAAEAAQ=</HashCode>
+      <FileName>SPRITE\fondo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.imagenStatic" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SPRITE\imagenStatic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.mano" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>SPRITE\mano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.mensajeIMG" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCgAABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>SPRITE\mensajeIMG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Ayuda.acierto_desacierto" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAQ=</HashCode>
+      <FileName>SPRITE\Ayuda\acierto_desacierto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Ayuda.lamina" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SPRITE\Ayuda\lamina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Ayuda.respuesta" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>SPRITE\Ayuda\respuesta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Ayuda.seleccion" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAQ=</HashCode>
+      <FileName>SPRITE\Ayuda\seleccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Formulario.boton" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACBAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>SPRITE\Formulario\boton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Formulario.button" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAgAAAgAIAACCQAIQAgAAQAAABAAACAAAAAQ=</HashCode>
+      <FileName>SPRITE\Formulario\button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Formulario.ComboBox" Collapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABYACAGAkABIgAEAEQAAkGgAAABAAQgDhAAiACIAAIQ=</HashCode>
+      <FileName>SPRITE\Formulario\ComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Formulario.menuPcipal" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACAgAAAAAAQAAAAAAAAAAAAAAAAAAAAoQ=</HashCode>
+      <FileName>SPRITE\Formulario\menuPcipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Formulario.TextBox" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAkAQAIABgCAAAAAAggCAgAAACgkkIIQ=</HashCode>
+      <FileName>SPRITE\Formulario\TextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Plantilla.plantillaEncabezado" Collapsed="true">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SPRITE\Plantilla\plantillaEncabezado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Plantilla.plantillaRectResp" Collapsed="true">
+    <Position X="31" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACwIACAJAMICAgAEAAgJgAAAAAAAACAAAAASEQgEAgA=</HashCode>
+      <FileName>SPRITE\Plantilla\plantillaRectResp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SPRITE.Plantilla.plantillaRespuestas" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDAAAAAAAAAgAAAAAEAIAAAAgAABAAAAAAEAAAAAQ=</HashCode>
+      <FileName>SPRITE\Plantilla\plantillaRespuestas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.SQLITE.bd_Raven" Collapsed="true">
+    <Position X="31" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAACAAEDAAAAAAAAAAAQAAACAAAAAIAAQAAE=</HashCode>
+      <FileName>SQLITE\bd_Raven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.TEXTO.Label" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TEXTO\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.TEXTO.mensajeAyuda" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABgAAAAAAAgAAAAAAAAAAABQAAAABAAAAAAAAIAQ=</HashCode>
+      <FileName>TEXTO\mensajeAyuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tesisRaven.TEXTO.tablaResultados" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgBAhAKAAIAAAAIAAADAAAEAAAAEAAY=</HashCode>
+      <FileName>TEXTO\tablaResultados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
